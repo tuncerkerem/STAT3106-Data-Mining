@@ -4,9 +4,9 @@ Applied Data Mining was a class covering logistic regression, naive bayes classi
 
 1. The Relationship of 311 Complaints to the NYPD with Demographics and Poverty Status
 - Logistic regression
-(2) An algorithm for receiving well-fitting yet diverse job recommendations
+2. An algorithm for receiving well-fitting yet diverse job recommendations
 - TF-IDF, Jaccard similarity, cosine similarity, latent semantic analysis, clustering
-(3) Prediction of Trump/Clinton support using county demographics
+3. Prediction of Trump/Clinton support using county demographics
 - K-nearest neighbors classification
 
 
